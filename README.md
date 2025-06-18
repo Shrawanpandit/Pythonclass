@@ -1,2 +1,2 @@
 # Pythonclass
-learning the basic of the python in the first class 
+learning the basic of the python in the first class .
